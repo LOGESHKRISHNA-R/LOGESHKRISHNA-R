@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @LOGESHKRISHNA-R
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-LOGESHKRISHNA-R/LOGESHKRISHNA-R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+• 👋 Hey there I’m @LOGESH KRISHNA!
+• 💻 I’m currently learning Android App development at Spotknack mission 2021.
+• 📫 How to reach me : Linkedin @Logesh Krishna R,Twitter @KRISHNA_2921.
+• 💬 Ask me about-Android Development,java,xml,python.
+• ⚡ Skills:Critical thinker and Good leader.
+• 💢 Besides coding i like Editing and Gaming.
