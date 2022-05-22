@@ -1,6 +1,6 @@
 # 👋 Hey there I’m LOGESH KRISHNA!😎
 
-• 💻 I’m currently learning Android App development at Spotknack mission 2021.
+• 💻 Cyber enthusiast.
 
 • 💬 Ask me about-Android Development,java,xml,python.
 
