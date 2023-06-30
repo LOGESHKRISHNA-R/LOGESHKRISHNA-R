@@ -1,8 +1,8 @@
 # 👋 Hey there I’m LOGESH KRISHNA!😎
 
-• 💻 Cyber enthusiast.
+• 💻 Software Developer.
 
-• 💬 Ask me about-Android Development,java,xml,python.
+• 💬 Ask me about-Software Engineering,Android Development,java,xml,python and Cyber Security.
 
 • ⚡ Skills:Critical thinker and Good leader.
 
